@@ -1,0 +1,5 @@
+datasets/
+images/
+runs/
+data.yaml
+*.pt
