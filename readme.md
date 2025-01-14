@@ -28,7 +28,7 @@ After training, I checked the accuracy of the data using the given `test.csv` fi
 - **P:** 0.789
 - **R:** 0.816
 - **mAP50:** 0.838
-- **mAP50-95:** 0.437 <br>
+- **mAP50-95:** 0.437 <br><br>
 
 - **Class:** Trophozoite
 - **Images:** 507
@@ -36,7 +36,7 @@ After training, I checked the accuracy of the data using the given `test.csv` fi
 - **P:** 0.686
 - **R:** 0.662
 - **mAP50:** 0.695
-- **mAP50-95:** 0.281 <br>
+- **mAP50-95:** 0.281 <br><br>
 
 - **Class:** WBC
 - **Images:** 392
@@ -44,7 +44,7 @@ After training, I checked the accuracy of the data using the given `test.csv` fi
 - **P:** 0.891
 - **R:** 0.969
 - **mAP50:** 0.982
-- **mAP50-95:** 0.593 <br>
+- **mAP50-95:** 0.593 <br><br>
 
 Finally, the results were submitted successfully with a public score of 0.42 and private score of 0.39.
 
